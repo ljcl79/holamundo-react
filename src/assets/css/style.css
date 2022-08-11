@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto';
+}
+.bg-personalizado {
+    background-color: #28a745;
+}
+.formulario {
+    background-color: #28a745;
+}
+.preciofull {
+    font-size: 16pt;
+    font-weight: 300;
+}
+.precio-activo {
+    color: #28a745;
+    font-size: 20pt;
+    font-weight: 500;
+}
+.card-img-top {
+    width:100%;
+    height: 13em;
+    object-fit: cover;
+}
+.card-title {
+    font-size: 20pt;
+    font-weight: 300;
+}
+.card-subtitle {
+    font-size: 16pt;
+    font-weight: 300;
+}
+.card-text {
+    font-size: 13pt;
+    font-weight: 300;
+}
+footer span {
+    display: block;
+}
